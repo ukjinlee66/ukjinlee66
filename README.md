@@ -25,7 +25,11 @@
 
 <div align=center>
   
-![](https://img.shields.io/badge/_-C-A8B9CC?style=for-the-badge&logo=c)![](https://img.shields.io/badge/_-C++-00599C?style=for-the-badge&logo=c%2B%2B)![](https://img.shields.io/badge/_-Docker-9cf?style=for-the-badge&logo=Docker)![](https://img.shields.io/badge/_-Kubernetes-9cf?style=for-the-badge&logo=kubernetes)![](https://img.shields.io/badge/_-MySQL-4479A1?style=for-the-badge&logo=mysql)![](https://img.shields.io/badge/_-Swift-FA7343?style=for-the-badge&logo=swift)
+![](https://img.shields.io/badge/-C-fff?&logo=c&logoColor=007396)![](https://img.shields.io/badge/-C++-fff?&logo=c%2B%2B&logoColor=007396)![](https://img.shields.io/badge/-Kubernetes-fff?&logo=kubernetes)![](https://img.shields.io/badge/-Docker-fff?&logo=Docker)![](https://img.shields.io/badge/-Swift-fff?&logo=Swift)![](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)<br>![](https://img.shields.io/badge/-Xcode-fff?&logo=Xcode&logoColor=007396)![](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=007396)<br>
+
+## My Email, Notion
+
+![mailto:ukjinlee66@gmail.com](https://img.shields.io/badge/-Gmail-fff?&logo=gmail&logoColor=EA4335)![notion:https://www.notion.so/71a17b08a5854c0f90d39b591ef336f1?v=b01fb66da6244c02826d49b86d38627c](https://img.shields.io/badge/-Notion-fff?&logo=notion&logoColor=000000)
 <!--
 **ukjinlee66/ukjinlee66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
