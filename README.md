@@ -21,9 +21,10 @@
 ![](https://img.shields.io/badge/webserv-progressing-orange?style=for-the-badge&logo=42)<br>
 ![](https://img.shields.io/badge/ft__transcendence-not_started-red?style=for-the-badge&logo=42)<br>
 
-## Technology stack<br>
 
 <div align=center>
+  
+## Technology stack<br>
   
 ![](https://img.shields.io/badge/-C-fff?&logo=c&logoColor=007396)![](https://img.shields.io/badge/-C++-fff?&logo=c%2B%2B&logoColor=007396)![](https://img.shields.io/badge/-Kubernetes-fff?&logo=kubernetes)![](https://img.shields.io/badge/-Docker-fff?&logo=Docker)![](https://img.shields.io/badge/-Swift-fff?&logo=Swift)![](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)<br>![](https://img.shields.io/badge/-Xcode-fff?&logo=Xcode&logoColor=007396)![](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=007396)<br>
 
