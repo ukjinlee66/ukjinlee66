@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/ft__services-pass-green?style=for-the-badge&logo=42)<br>
 ![](https://img.shields.io/badge/minishell-pass-green?style=for-the-badge&logo=42)<br>
 ![](https://img.shields.io/badge/ft__containers-progressing-orange?style=for-the-badge&logo=42)<br>
-![](https://img.shields.io/badge/webserv-progressing-orange?style=for-the-badge&logo=42)<br>
+![](https://img.shields.io/badge/webserv-pass-green?style=for-the-badge&logo=42)<br>
 ![](https://img.shields.io/badge/ft__transcendence-not_started-red?style=for-the-badge&logo=42)<br>
 
 
