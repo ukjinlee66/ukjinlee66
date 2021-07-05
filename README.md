@@ -31,7 +31,7 @@
 ## My Email, Notion
 
 <a href="mailto:ukjinlee66@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-de0101?style=soft-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.notion.so/youlee" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=soft-square&logo=notion&logoColor=black"/></a>
+<a href="https://www.notion.so/youlee/FT_Containers-002dcc254453492e871b82ef08c2e2e9" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=soft-square&logo=notion&logoColor=black"/></a>
 
 <!--
 **ukjinlee66/ukjinlee66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
