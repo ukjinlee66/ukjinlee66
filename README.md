@@ -1,38 +1,29 @@
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fukjinlee66&count_bg=%233DA6C8&title_bg=%23C6CD65&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ukjinlee66&count_private=true&show_icons=true&theme=cobalt)
-
 <div align=left>
 
-## 42Project<br>
-
-![](https://img.shields.io/badge/Libft-pass-green?style=for-the-badge&logo=42)<br>
-![](https://img.shields.io/badge/ft__printf-pass-green?style=for-the-badge&logo=42)<br>
-![](https://img.shields.io/badge/get__next__line-pass-green?style=for-the-badge&logo=42)<br>
-![](https://img.shields.io/badge/netwhat-pass-green?style=for-the-badge&logo=42)<br>
-![](https://img.shields.io/badge/cub3d-pass-green?style=for-the-badge&logo=42)<br>
-![](https://img.shields.io/badge/ft__server-pass-green?style=for-the-badge&logo=42)<br>
-![](https://img.shields.io/badge/libasm-pass-green?style=for-the-badge&logo=42)<br>
-![](https://img.shields.io/badge/ft__services-pass-green?style=for-the-badge&logo=42)<br>
-![](https://img.shields.io/badge/minishell-pass-green?style=for-the-badge&logo=42)<br>
-![](https://img.shields.io/badge/ft__containers-progressing-orange?style=for-the-badge&logo=42)<br>
-![](https://img.shields.io/badge/webserv-pass-green?style=for-the-badge&logo=42)<br>
-![](https://img.shields.io/badge/ft__transcendence-not_started-red?style=for-the-badge&logo=42)<br>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukjinlee66)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ukjinlee66&count_private=true&show_icons=true&theme=cobalt)
 
 <div align=center>
   
 ## Technology stack<br>
   
 ![](https://img.shields.io/badge/-C-fff?&logo=c&logoColor=007396)![](https://img.shields.io/badge/-C++-fff?&logo=c%2B%2B&logoColor=007396)![](https://img.shields.io/badge/-Kubernetes-fff?&logo=kubernetes)![](https://img.shields.io/badge/-Docker-fff?&logo=Docker)![](https://img.shields.io/badge/-Swift-fff?&logo=Swift)![](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)<br>![](https://img.shields.io/badge/-Xcode-fff?&logo=Xcode&logoColor=007396)![](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=007396)<br>
-
-## My Email, Notion
+![](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=#F7DF1E)
+![](https://img.shields.io/badge/-HTML5-fff?&logo=HTML5&logoColor=#E34F26)
+![](https://img.shields.io/badge/-CSS3-fff?&logo=CSS3&logoColor=1572B6)
+![](https://img.shields.io/badge/-Spring-fff?&logo=Spring&logoColor=#6DB33F)
+## My Email, Blog
 
 <a href="mailto:ukjinlee66@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-de0101?style=soft-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.notion.so/youlee/FT_Containers-002dcc254453492e871b82ef08c2e2e9" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=soft-square&logo=notion&logoColor=black"/></a>
+<a href="https://ukjinlee.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=soft-square&logo=Github&logoColor=black"/></a>
 
+## Education history<br>
+🎓INHA Univ ~ 22.02<br>
+💻42Seoul ~ 22.01 1st (C Developer training)<br>
+🖥Play_data ~ ing (Big data Developer training)<br>
 <!--
 **ukjinlee66/ukjinlee66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
