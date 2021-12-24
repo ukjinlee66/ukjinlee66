@@ -21,7 +21,7 @@
 <a href="https://ukjinlee.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=soft-square&logo=Github&logoColor=black"/></a>
 
 ## Education history<br>
-🎓INHA Univ ~ 22.02<br>
+🎓INHA Univ ~ 22.02 (Information and Communication Engineering)<br>
 💻42Seoul ~ 22.01 1st (C Developer training)<br>
 🖥Play_data ~ ing (Big data Developer training)<br>
 <!--
