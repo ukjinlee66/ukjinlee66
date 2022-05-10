@@ -14,6 +14,9 @@
 ![](https://img.shields.io/badge/-HTML5-fff?&logo=HTML5&logoColor=#E34F26)
 ![](https://img.shields.io/badge/-CSS3-fff?&logo=CSS3&logoColor=1572B6)
 ![](https://img.shields.io/badge/-Spring-fff?&logo=Spring&logoColor=#6DB33F)
+![](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
+![](https://img.shields.io/badge/-Python-fff?&logo=Python)
+![](https://img.shields.io/badge/-React-fff?&logo=React)
 ## My Email, Blog
 
 <a href="mailto:ukjinlee66@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-de0101?style=soft-square&logo=gmail&logoColor=white"/></a>
