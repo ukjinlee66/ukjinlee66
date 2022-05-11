@@ -17,6 +17,8 @@
 ![](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
 ![](https://img.shields.io/badge/-Python-fff?&logo=Python)
 ![](https://img.shields.io/badge/-React-fff?&logo=React)
+![](https://img.shields.io/badge/-AWS-fff?&logo=AmazonAWS&logoColor=black)
+![](https://img.shields.io/badge/-GCP-fff?&logo=GoogleCloud)
 ## My Email, Blog
 
 <a href="mailto:ukjinlee66@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-de0101?style=soft-square&logo=gmail&logoColor=white"/></a>
