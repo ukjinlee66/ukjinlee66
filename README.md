@@ -28,7 +28,6 @@
 🎓INHA Univ ~ 22.08 (Information and Communication Engineering)<br>
 💻42Seoul ~ 22.01 1st (C Developer training)<br>
 🖥Play_data ~ 22.04 (Big data Developer training)<br>
-🖥Metanet_internship program 22.05 ~ 22.09 (Cloud Native Full Stack Engineer training)<br>
 <!--
 **ukjinlee66/ukjinlee66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
