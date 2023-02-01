@@ -4,7 +4,7 @@
   
 <div align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukjinlee66)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukjinlee66)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ukjinlee66&count_private=true&show_icons=true&theme=cobalt)
 
 <div align=center>
