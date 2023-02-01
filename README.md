@@ -4,7 +4,7 @@
   
 <div align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukjinlee66)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukjinlee66)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ukjinlee66&count_private=true&show_icons=true&theme=cobalt)
 
 <div align=center>
@@ -49,28 +49,19 @@
 ![](https://img.shields.io/badge/-React-fff?&logo=React)
 ![](https://img.shields.io/badge/-AWS-fff?&logo=AmazonAWS&logoColor=black)
 ![](https://img.shields.io/badge/-GCP-fff?&logo=GoogleCloud)
+  
+<br><br>
+
 ## My Email, Blog
 
 <a href="mailto:ukjinlee66@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-de0101?style=soft-square&logo=gmail&logoColor=white"/></a>
 <a href="https://ukjinlee.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=soft-square&logo=Github&logoColor=black"/></a>
 
+<br><br><br><br>
+  
 ## Education history<br>
 🎓INHA Univ ~ 22.08 (Information and Communication Engineering)<br>
 💻42Seoul ~ 22.01 1st (C Developer training)<br>
 🖥Play_data ~ 22.04 (Big data Developer training)<br>
 🖥Metanet InternShip Program 22.05.01 ~ 22.08.31<br>
 🖥PuzzleData 22.09.19 ~<br>
-<!--
-**ukjinlee66/ukjinlee66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
