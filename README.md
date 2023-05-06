@@ -59,9 +59,9 @@
 
 <br><br><br><br>
   
-## Education history<br>
+## Education, Job history<br>
 🎓INHA Univ ~ 22.08 (Information and Communication Engineering)<br>
 💻42Seoul ~ 22.01 1st (C Developer training)<br>
 🖥Play_data ~ 22.04 (Big data Developer training)<br>
 🖥Metanet InternShip Program 22.05.01 ~ 22.08.31<br>
-🖥PuzzleData 22.09.19 ~<br>
+🖥PuzzleData 22.09.19 ~ 23.05.04 <br>
