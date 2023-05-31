@@ -67,3 +67,4 @@
 ## Job history<br>
 🖥Metanet InternShip Program 22.05.01 ~ 22.08.31<br>
 🖥PuzzleData 22.09.19 ~ 23.05.04 <br>
+🖥TmaxFintech 23.6.15 ~ <br>
