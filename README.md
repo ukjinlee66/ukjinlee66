@@ -10,6 +10,7 @@
 <div align=center>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fruit)](https://solved.ac/fruit/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ukjinlee)](https://solved.ac/ukjinlee/)
 
 <div align=center>
 
