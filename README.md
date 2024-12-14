@@ -63,7 +63,7 @@
 ## Education history<br>
 🎓INHA Univ ~ 22.08 (Information and Communication Engineering)<br>
 💻42Seoul ~ 22.01 1st (C Developer training)<br>
-💻Play_data ~ 22.04 (Big data Developer training)<br>
+💻Play_data 21.11.29 ~ 22.04.29 (Big data Developer training)<br>
 <br><br>
 ## Job history<br>
 🖥Metanet InternShip Program 22.05.01 ~ 22.08.31<br>
